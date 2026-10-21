@@ -1,0 +1,14 @@
+{
+  "model_name": "qwen2.5:1.5b",
+  "ollama_base_url": "http://localhost:11434",
+  "max_tokens": 512,
+  "temperature": 0.7,
+  "top_k": 40,
+  "top_p": 0.9,
+  "repeat_penalty": 1.1,
+  "repeat_last_n": 64,
+  "num_ctx": 4096,
+  "bot_name": "Veyra",
+  "web_host": "0.0.0.0",
+  "web_port": 7860
+}
